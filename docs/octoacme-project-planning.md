@@ -15,6 +15,9 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. **Identify Technical Lead** for architecture guidance and design reviews
+8. **Identify UX touchpoints** if project involves user-facing features (coordinate with UX Designer on design milestones and handoffs)
+9. **Assign owner for risk register** (typically PM) to track and update risks throughout the project
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +44,6 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] Technical Lead identified and engaged
+- [ ] UX Designer engaged (if applicable) and design milestones defined
+- [ ] Risk register owner assigned (typically PM)
