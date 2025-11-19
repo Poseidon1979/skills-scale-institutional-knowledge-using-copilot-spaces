@@ -18,6 +18,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+  - **Suggested team composition:** Consider including PM, PdM, Developers, QA, and when applicable: Scrum Master (for agile facilitation), UX Designer (for user-facing features), Technical Lead (for architecture guidance), Support Engineer (for production support)
 
 ## Project One-pager Template
 - Project name:
@@ -28,6 +29,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
 - Proposed team / roles:
+  - Example: PM: [Name], PdM: [Name], Technical Lead: [Name], Developers: [Names], QA: [Name], UX Designer: [Name if applicable], Scrum Master: [Name if applicable], Support Engineer: [Name]
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead

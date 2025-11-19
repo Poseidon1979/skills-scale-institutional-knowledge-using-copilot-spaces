@@ -20,6 +20,14 @@ Applies to all cross-functional projects that deliver product features, services
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
 
+**Extended roles** (based on project needs):
+- Scrum Master: facilitates agile ceremonies and removes impediments
+- UX Designer: designs user experiences and validates usability
+- Technical Lead: provides architecture guidance and mentors developers
+- Support Engineer: monitors production and triages incidents
+
+For detailed role definitions, see [octoacme-roles-and-personas.md](octoacme-roles-and-personas.md).
+
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
@@ -27,6 +35,7 @@ Applies to all cross-functional projects that deliver product features, services
 - Acceptance Criteria & Definition of Done
 - Risk Register
 - Retrospective notes and action items
+- **Checklists & Templates** (see [octoacme-checklists-and-templates.md](octoacme-checklists-and-templates.md))
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.
@@ -44,3 +53,4 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- **Use checklists** from [octoacme-checklists-and-templates.md](octoacme-checklists-and-templates.md) to ensure consistency and quality across key activities.
